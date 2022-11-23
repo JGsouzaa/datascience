@@ -1,0 +1,2 @@
+Remover os outliers (usar z-score) e continuar a analise do boxplot, explorar os indices estatisticos
+plotar acrescimo por ano de cada categoria e analisar a tendencia de crescimento
