@@ -1,0 +1,1 @@
+This is a simple problem of linear regression, taken from Supervised Machine Learning Regression and Classification course, there are comments about the problem and pure code in python to solve linear regression problems
