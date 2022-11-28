@@ -1,0 +1,3 @@
+Explain the focus of the study and the considerations (about the time between data colection)
+
+Continue completing missing data using both stations and weigthed regional method
