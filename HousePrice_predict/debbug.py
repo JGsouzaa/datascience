@@ -39,3 +39,8 @@ print(a_out_price[0])
 
 for element in a_out_price[0]:
     df_seattle_clean = df_seattle.drop(df.index[element+1])
+
+
+outs_price = []
+for element in a_out_price:
+    outs_price.append(df_seattle.price.values[element])
